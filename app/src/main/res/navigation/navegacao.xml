@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navegacao"
+    app:startDestination="@id/fragmentHome">
+
+    <fragment
+        android:id="@+id/fragmentHome"
+        android:name="com.mobilekotlin.FragmentsMenu.FragmentHome"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/fragmentComodos"
+        android:name="com.mobilekotlin.FragmentsMenu.FragmentComodos"
+        android:label="fragment_comodos"
+        tools:layout="@layout/fragment_comodos" />
+    <fragment
+        android:id="@+id/fragmentAgrupados"
+        android:name="com.mobilekotlin.FragmentsMenu.FragmentAgrupados"
+        android:label="fragment_agrupados"
+        tools:layout="@layout/fragment_agrupados" />
+    <fragment
+        android:id="@+id/fragmentVisaoSuperior"
+        android:name="com.mobilekotlin.FragmentsMenu.FragmentVisaoSuperior"
+        android:label="fragment_visao_superior"
+        tools:layout="@layout/fragment_visao_superior" />
+</navigation>

@@ -3,7 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Smith Fernandes/Documents/4 - github/Mobilekotlin/app/src/main/res/drawable/ic_launcher_background.xml" value="0.171" />
         <entry key="..\:/Users/Smith Fernandes/Documents/4 - github/Mobilekotlin/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Smith Fernandes/Documents/4 - github/Mobilekotlin/app/src/main/res/layout/activity_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Smith Fernandes/Documents/4 - github/Mobilekotlin/app/src/main/res/layout/fragment_agrupados.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Smith Fernandes/Documents/4 - github/Mobilekotlin/app/src/main/res/layout/fragment_comodos.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Smith Fernandes/Documents/4 - github/Mobilekotlin/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Smith Fernandes/Documents/4 - github/Mobilekotlin/app/src/main/res/layout/fragment_visao_superior.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Smith Fernandes/Documents/4 - github/Mobilekotlin/app/src/main/res/menu/bottom_nav.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>

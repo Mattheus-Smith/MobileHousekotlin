@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MobileKotlin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_fragment_0">Hello fragment home </string>
+    <string name="hello_fragment_1">Hello fragment comodos</string>
+    <string name="hello_fragment_2">Hello fragment agrupados</string>
+    <string name="hello_fragment_3">Hello fragment visao superior</string>
 </resources>

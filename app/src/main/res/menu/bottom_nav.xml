@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Home"
+        android:icon="@drawable/ic_home_24"
+        android:id="@+id/fragmentHome"/>
+
+    <item
+        android:title="Comodos"
+        android:icon="@drawable/ic_home_24"
+        android:id="@+id/fragmentComodos"/>
+
+    <item
+        android:title="Agrupados"
+        android:icon="@drawable/ic_home_24"
+        android:id="@+id/fragmentAgrupados"/>
+
+    <item
+        android:title="Visao Superior"
+        android:icon="@drawable/ic_home_24"
+        android:id="@+id/fragmentVisaoSuperior"/>
+
+</menu>
